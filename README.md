@@ -8,16 +8,6 @@
 
 ---
 
-## 💡 The Problem & Why This App Exists
-Most remote control apps available on the Google Play Store suffer from the same issues:
-* **Disruptive Full-Screen Ads:** Opening the app or tapping a button often triggers intrusive pop-up advertisements.
-* **Bloated Size & Slow Load Times:** Many third-party apps take up 30 MB to 60 MB of storage, run heavy background services, and lag upon launch.
-* **Cluttered Interfaces:** Overcomplicated menus with confusing layouts.
-
-**Remote BLDC Fan** was built out of practical necessity to solve these issues. It is an ultra-fast, minimalist remote utility written from scratch in native Android (Jetpack Compose). It loads instantly, respects your battery and storage, and provides a tactile, reliable physical remote experience directly on your smartphone.
-
----
-
 ## ✨ Key Features
 
 * **🚫 100% Ad-Free Experience:** No banners, no interstitial full-screen ads, and zero telemetry tracking. It behaves like a clean utility.
@@ -41,6 +31,11 @@ The app features dedicated, pre-configured remote layouts for major BLDC ceiling
 | **Activa** | ✅ Supported | Power, Nature, Smart, Speeds 1–6, Boost, Light, Timers, REV[cite: 3, 8] |
 
 > **Universal Compatibility Tip:** Even if your specific ceiling fan brand is not listed above, we recommend testing the available profiles. Many BLDC fan manufacturers share compatible infrared frequency codes and motor drivers.
+
+---
+
+## 💡 Why This App Exists
+Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with intrusive full-screen ads. **Remote BLDC Fan** was built to eliminate that frustration—offering an instant, zero-bloat, and 100% ad-free physical remote experience right on your phone.
 
 ---
 
