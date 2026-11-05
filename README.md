@@ -24,7 +24,7 @@ The app features dedicated, pre-configured remote layouts for major BLDC ceiling
 
 | Brand Profile | Status | Key Mappings Included |
 | :--- | :--- | :--- |
-| **Walton** | ✅ Fully Tested | Power, LED, Speeds 1–6, Speed 7 / MAX, Timers (2H, 4H, 6H, 8H), REV, ECO[cite: 12] |
+| **Walton** | ✅ Supported | Power, LED, Speeds 1–6, Speed 7 / MAX, Timers (2H, 4H, 6H, 8H), REV, ECO[cite: 12] |
 | **Innoel** | ✅ Supported | Power, LED, Speeds 1–6, MAX, Timers (2H, 4H, 8H), SMT, REV[cite: 11] |
 | **Atomberg** | ✅ Supported | Power, Speed Wheel, Light, Timer, Sleep, Boost[cite: 7, 10] |
 | **Orient** | ✅ Supported | On, Off, Speeds 1–5, Timers (2H, 4H, 6H, 8H), LED, Boost[cite: 5, 9] |
