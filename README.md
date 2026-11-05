@@ -33,11 +33,11 @@
 ---
 
 ## 🎯 Supported Brands
-* ✅ **Walton**[cite: 11]
-* ✅ **Innoel**[cite: 10]
-* ✅ **Atomberg**[cite: 6, 9]
-* ✅ **Orient**[cite: 4, 5, 8]
-* ✅ **Activa**[cite: 2, 3, 7]
+* ✅ **Walton**
+* ✅ **Innoel**
+* ✅ **Atomberg**
+* ✅ **Orient**
+* ✅ **Activa**
 
 > 💡 **Other Brand? Test It Out!**  
 > Most BLDC ceiling fans share identical NEC infrared signals. Even if your brand isn’t listed, one of these profiles will likely work for your fan!
