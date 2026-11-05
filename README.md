@@ -1,11 +1,22 @@
 # 🌀Remote BLDC Fan
 > **A native, ultra-lightweight, and completely ad-free Android remote control utility for BLDC ceiling fans.**
 
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://android.com)
-[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android&logoColor=white)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk)
-[![Size](https://img.shields.io/badge/Size-~800_KB-blue)](#-key-features)
-[![Ads](https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen)](#-key-features)
-[![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/)
+<!-- LARGE APK DOWNLOAD BUTTON -->
+<p align="center">
+  <a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-v14.0-22C55E?style=for-the-badge&logo=android&logoColor=white" width="600" alt="Download APK">
+  </a>
+</p>
+
+<!-- SMALL BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Size-~800_KB-blue">
+  <img src="https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen">
+  <a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/">
+    <img src="https://img.shields.io/badge/Releases-GitHub-blue?logo=github">
+  </a>
+</p>
 
 ---
 
