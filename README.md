@@ -1,8 +1,8 @@
 # 🌀Remote BLDC Fan
 > **A native, ultra-lightweight, and completely ad-free Android remote control utility for BLDC ceiling fans.**
 
-[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android&logoColor=white)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://android.com)
+[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android&logoColor=white)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk)
 [![Size](https://img.shields.io/badge/Size-~800_KB-blue)](#-key-features)
 [![Ads](https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen)](#-key-features)
 [![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/)
@@ -17,11 +17,11 @@
 
 ## ✨ Key Features
 
-* **🚫 100% Ad-Free Experience:** No banners, no interstitial full-screen ads, and zero telemetry tracking. It behaves like a clean utility.
-* **⚡ Ultra-Lightweight (~800 KB):** Weighs under 1 MB. It takes seconds to install and uses almost zero RAM or background resources.
-* **📱 Luxury Skeuomorphic Design:** Features a dark charcoal glossy finish, beveled physical buttons, subtle glass reflections, and top-mounted transmission LED feedback.
-* **🔊 Tactile Feedback:** Integrated with realistic mechanical click sounds and uniform haptic vibrations on touch.
-* **⚡ Native IR Optimization:** Custom-tuned NEC pulse bursts (38 kHz) engineered specifically for BLDC motor controllers to prevent missed signals or incomplete state transitions.
+* 🚫 **100% Ad-Free:** Zero pop-ups, banners, or tracking. Just a pure, clean utility.
+* ⚡ **Super Lightweight (~800 KB):** Installs in seconds, opens instantly, and consumes virtually zero RAM or battery.
+* 🎛️ **Realistic Remote Feel:** Sleek glossy dark finish with satisfying click sounds and haptic vibration on every press.
+* ⚡ **Zero-Lag Response:** Native infrared tuning for instant and reliable fan control.
+* 🔄 **Broad BLDC Compatibility:** Pre-mapped for top brands, with great support for many other unlisted models sharing similar signals.
 
 ---
 
@@ -45,7 +45,7 @@
 ---
 
 ## 💡 Why This App Exists
-Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with intrusive full-screen ads. **Remote BLDC Fan** was built to eliminate that frustration—offering an instant, zero-bloat, and 100% ad-free physical remote experience right on your phone.
+Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with intrusive full-screen ads. **Remote BLDC Fan** was built to eliminate that frustration offering an instant, zero-bloat, and 100% ad-free physical remote experience right on your phone.
 
 ---
 
@@ -56,8 +56,8 @@ Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with 
 ---
 
 ## ⚠️ Requirements
-* 📡 **IR Blaster:** Your phone must have a built-in IR blaster (Xiaomi, Redmi, Poco, etc.).
-* 📴 **100% Offline:** Uses pure infrared — no Wi-Fi, Bluetooth, or internet required.
+* 📡 **IR Blaster:** Your phone must have a built-in IR blaster sensor.
+* 📴 **100% Offline:** Uses pure infrared no Wi-Fi, Bluetooth, or internet required.
 * 🤖 **OS:** Android 8.0 and above.
 
 ---
