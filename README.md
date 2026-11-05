@@ -71,17 +71,14 @@ Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with 
 
 ## 📸 App Interface:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f6c601c-cf29-4d94-94d7-464ce579a6c8" width="48%">
-  <img src="https://github.com/user-attachments/assets/be5dc30d-1424-4f56-aef3-00889721bad6" width="48%">
+  <img src="https://github.com/user-attachments/assets/ba5c1380-74f3-4ac5-b78f-2543a7b29861" width="31%" alt="Remote Interface 1">
+  <img src="https://github.com/user-attachments/assets/84c9ee80-bba0-4379-89db-78905a3ddc79" width="31%" alt="Remote Interface 2">
+  <img src="https://github.com/user-attachments/assets/3920e59c-fe45-453b-a828-226e1b4f42eb" width="31%" alt="Remote Interface 3">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fecc031-ec5e-4aa9-924d-cc618c7223c2" width="48%">
-  <img src="YOUR_IMAGE_4_URL" width="48%">
-</p>
-
-<p align="center">
-  <img src="YOUR_IMAGE_5_URL" width="48%">
+  <img src="https://github.com/user-attachments/assets/2e71aab2-a377-4580-8dcc-73da5fe803fe" width="31%" alt="Remote Interface 4">
+  <img src="https://github.com/user-attachments/assets/0ff67fdb-5c28-4df2-ae50-ed1284e67a23" width="31%" alt="Remote Interface 5">
 </p>
 
 ---
