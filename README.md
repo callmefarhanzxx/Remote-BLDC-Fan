@@ -10,7 +10,7 @@
 
 <p align="center">
 <img width="1122" height="1402" alt="2 BLDC Remote App" src="https://github.com/user-attachments/assets/6b3a42d5-4ebb-47f5-b2ea-8b4bce16b23f" />
-<img width="1536" height="1024" alt="3 BLDC Remote App" src="https://github.com/user-attachments/assets/b55a58d5-f621-4091-a10c-9a97389f35bb" />
+<img width="1536" height="1024" alt="3 BLDC Remote App" src="https://github.com/user-attachments/assets/390c468d-3b62-480b-9567-94c5fb6caf7c" />
 </p>
 
 ---
