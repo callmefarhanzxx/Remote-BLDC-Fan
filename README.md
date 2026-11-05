@@ -1,10 +1,12 @@
 # 🌀Remote BLDC Fan
 > **A native, ultra-lightweight, and completely ad-free Android remote control utility for BLDC ceiling fans.**
 
+[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android&logoColor=white)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://android.com)
-[![Size](https://img.shields.io/badge/Size-~800_KB-blue)](#-why-remote-bldc-fan)
+[![Size](https://img.shields.io/badge/Size-~800_KB-blue)](#-key-features)
 [![License](https://img.shields.io/badge/License-Free_Utility-green)](#)
-[![No Ads](https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen)](#-key-features)
+[![Ads](https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen)](#-key-features)
+[![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github)](https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/)
 
 ---
 
