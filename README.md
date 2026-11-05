@@ -32,19 +32,15 @@
 
 ---
 
-## 🎯 Supported Fan Brands & Profiles
+## 🎯 Supported Brands
+* ✅ **Walton**[cite: 11]
+* ✅ **Innoel**[cite: 10]
+* ✅ **Atomberg**[cite: 6, 9]
+* ✅ **Orient**[cite: 4, 5, 8]
+* ✅ **Activa**[cite: 2, 3, 7]
 
-The app features dedicated, pre-configured remote layouts for major BLDC ceiling fan brands[cite: 3, 5, 7, 11, 12]:
-
-| Brand Profile | Status | Key Mappings Included |
-| :--- | :--- | :--- |
-| **Walton** | ✅ Supported | Power, LED, Speeds 1–6, Speed 7 / MAX, Timers (2H, 4H, 6H, 8H), REV, ECO[cite: 12] |
-| **Innoel** | ✅ Supported | Power, LED, Speeds 1–6, MAX, Timers (2H, 4H, 8H), SMT, REV[cite: 11] |
-| **Atomberg** | ✅ Supported | Power, Speed Wheel, Light, Timer, Sleep, Boost[cite: 7, 10] |
-| **Orient** | ✅ Supported | On, Off, Speeds 1–5, Timers (2H, 4H, 6H, 8H), LED, Boost[cite: 5, 9] |
-| **Activa** | ✅ Supported | Power, Nature, Smart, Speeds 1–6, Boost, Light, Timers, REV[cite: 3, 8] |
-
-> **Universal Compatibility Tip:** Even if your specific ceiling fan brand is not listed above, we recommend testing the available profiles. Many BLDC fan manufacturers share compatible infrared frequency codes and motor drivers.
+> 💡 **Other Brand? Test It Out!**  
+> Most BLDC ceiling fans share identical NEC infrared signals. Even if your brand isn’t listed, one of these profiles will likely work for your fan!
 
 ---
 
@@ -59,24 +55,24 @@ Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with 
 
 ---
 
-## ⚠️ Hardware Requirements
-
-* **Infrared (IR) Blaster Required:** Your smartphone **must** have a physical, built-in IR Blaster (Infrared emitter hardware) to communicate with the fan. 
-  * Common on many Xiaomi, Redmi, Poco, Vivo, and selected OnePlus/Huawei devices.
-* **No Network Required:** The app transmits pure infrared light signals. It does **not** rely on Wi-Fi, Bluetooth, local networks, or NFC.
-* **Supported OS:** Android 8.0 (Oreo) and above.
+## ⚠️ Requirements
+* 📡 **IR Blaster:** Your phone must have a built-in IR blaster (Xiaomi, Redmi, Poco, etc.).
+* 📴 **100% Offline:** Uses pure infrared — no Wi-Fi, Bluetooth, or internet required.
+* 🤖 **OS:** Android 8.0 and above.
 
 ---
 
-## 📥 Installation Guide
-
-1. Head over to the **[Releases](../../releases)** tab on the right sidebar of this repository.
-2. Download the latest compiled **`Remote_BLDC_Fan.apk`** file.
-3. Open the downloaded file on your Android device and confirm installation (allow installation from unknown sources if prompted).
-4. Point your phone's top IR sensor directly at your BLDC ceiling fan and start controlling it instantly[cite: 3, 5, 7, 11, 12].
+## 📥 Quick Setup
+1. Download **`Remote_BLDC_Fan.apk`** from **[Releases](../../releases)**.
+2. Install the APK on your phone.
+3. Point your phone's IR blaster at the fan and enjoy[cite: 3, 5, 7]!
 
 ---
 
-## 👨‍💻 Developer & Credits
-Developed by **[Farhan Shahariar](https://facebook.com/iamfarhanzx)**[cite: 3, 5, 7, 11, 12].  
-*Crafted for everyday reliability and clean digital experiences.*
+## 👨‍💻 Developer
+Built with ❤️ by **Farhan Shahariar**
+
+[![Facebook](https://img.shields.io/badge/Connect-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamfarhanzx)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmefarhanzxx)
+
+*Crafted for everyday reliability, clean design, and zero-bloat performance.*
