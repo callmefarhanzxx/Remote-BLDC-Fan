@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+<img width="1122" height="1402" alt="2 BLDC Remote App" src="https://github.com/user-attachments/assets/6b3a42d5-4ebb-47f5-b2ea-8b4bce16b23f" />
+<img width="1536" height="1024" alt="3 BLDC Remote App" src="https://github.com/user-attachments/assets/b55a58d5-f621-4091-a10c-9a97389f35bb" />
+</p>
+
+---
+
 ## ✨ Key Features
 
 * **🚫 100% Ad-Free Experience:** No banners, no interstitial full-screen ads, and zero telemetry tracking. It behaves like a clean utility.
@@ -15,6 +22,12 @@
 * **📱 Luxury Skeuomorphic Design:** Features a dark charcoal glossy finish, beveled physical buttons, subtle glass reflections, and top-mounted transmission LED feedback.
 * **🔊 Tactile Feedback:** Integrated with realistic mechanical click sounds and uniform haptic vibrations on touch.
 * **⚡ Native IR Optimization:** Custom-tuned NEC pulse bursts (38 kHz) engineered specifically for BLDC motor controllers to prevent missed signals or incomplete state transitions.
+
+---
+
+<p align="center">
+<img width="1122" height="1402" alt="1 BLDC Remote App" src="https://github.com/user-attachments/assets/7f43e611-e1af-4f34-bb3e-a586a0b6d3fd" />
+</p>
 
 ---
 
@@ -36,6 +49,12 @@ The app features dedicated, pre-configured remote layouts for major BLDC ceiling
 
 ## 💡 Why This App Exists
 Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with intrusive full-screen ads. **Remote BLDC Fan** was built to eliminate that frustration—offering an instant, zero-bloat, and 100% ad-free physical remote experience right on your phone.
+
+---
+
+<p align="center">
+<img width="1122" height="1402" alt="4 BLDC Remote App" src="https://github.com/user-attachments/assets/2f04a1b0-992e-45d8-85e9-b4ab9d8b68cd" />
+</p>
 
 ---
 
