@@ -70,11 +70,19 @@ Most ceiling fan remotes on the Play Store are heavy, sluggish, and packed with 
 ---
 
 ## 📸 App Interface:
-<img width="1272" height="2772" alt="Screenshot_2026-11-05-06-07-10-01_da898cbac59c51e145a2c145da06ac20" src="https://github.com/user-attachments/assets/a8f5620e-52c1-409d-b47a-92445afe5f02" />
-<img width="1272" height="2772" alt="Screenshot_2026-11-05-06-07-04-93_da898cbac59c51e145a2c145da06ac20" src="https://github.com/user-attachments/assets/7fdc714a-49fd-4b0e-a119-d9b29d898c65" />
-<img width="1272" height="2772" alt="Screenshot_2026-11-05-06-07-16-22_da898cbac59c51e145a2c145da06ac20" src="https://github.com/user-attachments/assets/443ed763-7b52-411c-9211-18fc03ef9448" />
-<img width="1272" height="2772" alt="Screenshot_2026-11-05-06-07-18-73_da898cbac59c51e145a2c145da06ac20" src="https://github.com/user-attachments/assets/78369880-3745-4e78-9ccb-07cd4d324928" />
-<img width="1272" height="2772" alt="Screenshot_2026-11-05-06-07-13-47_da898cbac59c51e145a2c145da06ac20" src="https://github.com/user-attachments/assets/d18d24b0-0891-453a-8f64-ac0a90fa8199" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f6c601c-cf29-4d94-94d7-464ce579a6c8" width="48%">
+  <img src="https://github.com/user-attachments/assets/be5dc30d-1424-4f56-aef3-00889721bad6" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fecc031-ec5e-4aa9-924d-cc618c7223c2" width="48%">
+  <img src="YOUR_IMAGE_4_URL" width="48%">
+</p>
+
+<p align="center">
+  <img src="YOUR_IMAGE_5_URL" width="48%">
+</p>
 
 ---
 
