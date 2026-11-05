@@ -4,7 +4,7 @@
 <!-- APK DOWNLOAD -->
 <p align="center">
   <a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk">
-    <img src="https://img.shields.io/badge/Download-APK_v14.0-22C55E?style=flat&logo=android&logoColor=white" height="26" alt="Download APK">
+    <img src="https://img.shields.io/badge/Download-APK_v14.0-22C55E?style=flat&logo=android&logoColor=white" height="34" alt="Download APK">
   </a>
 </p>
 
