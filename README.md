@@ -11,7 +11,6 @@
 
 <p align="center">
 <img width="1122" height="1402" alt="2 BLDC Remote App" src="https://github.com/user-attachments/assets/6b3a42d5-4ebb-47f5-b2ea-8b4bce16b23f" />
-<img width="1536" height="1024" alt="3 BLDC Remote App" src="https://github.com/user-attachments/assets/390c468d-3b62-480b-9567-94c5fb6caf7c" />
 </p>
 
 ---
@@ -27,6 +26,7 @@
 ---
 
 <p align="center">
+ <img width="1536" height="1024" alt="3 BLDC Remote App" src="https://github.com/user-attachments/assets/390c468d-3b62-480b-9567-94c5fb6caf7c" />
 <img width="1122" height="1402" alt="1 BLDC Remote App" src="https://github.com/user-attachments/assets/7f43e611-e1af-4f34-bb3e-a586a0b6d3fd" />
 </p>
 
