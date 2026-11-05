@@ -1,4 +1,4 @@
-# Remote BLDC Fan 🌀
+# 🌀Remote BLDC Fan
 > **A native, ultra-lightweight, and completely ad-free Android remote control utility for BLDC ceiling fans.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://android.com)
