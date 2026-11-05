@@ -3,13 +3,15 @@
 
 
 <p align="center">
-<a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk"><img src="https://img.shields.io/badge/Download-APK_v14.0-22C55E?style=for-the-badge&logo=android&logoColor=white" width="220"></a><a href="https://android.com"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white"></a><img src="https://img.shields.io/badge/Size-~800_KB-blue"><img src="https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen"><a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/"><img src="https://img.shields.io/badge/Releases-GitHub-blue?logo=github"></a>
-</p>
-
----
-
-<p align="center">
-<img width="1122" height="1402" alt="2 BLDC Remote App" src="https://github.com/user-attachments/assets/6b3a42d5-4ebb-47f5-b2ea-8b4bce16b23f" />
+<a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/download/14.0/REMOTE_BLDC_FAN_v14.0.apk"><img src="https://img.shields.io/badge/DOWNLOAD-APK_v14.0-22C55E?style=for-the-badge&logo=android&logoColor=white" width="185" alt="Download APK"></a>
+&#32;
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Platform">
+&#32;
+<img src="https://img.shields.io/badge/Size-~800_KB-blue" alt="Size">
+&#32;
+<img src="https://img.shields.io/badge/Ads-100%25_Ad--Free-brightgreen" alt="Ad Free">
+&#32;
+<a href="https://github.com/callmefarhanzxx/Remote-BLDC-Fan/releases/"><img src="https://img.shields.io/badge/Releases-GitHub-blue?logo=github" alt="Releases"></a>
 </p>
 
 ---
